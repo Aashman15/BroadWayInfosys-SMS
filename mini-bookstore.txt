@@ -1,0 +1,16 @@
+Mini BookStore
+
+
+no of total books books
+no of individual books
+
+Author: id, name, number list of books
+Book: id, title, price, list of authors
+
+CRUD operations: 
+
+
+add author/ book
+buy book
+search book
+update book
